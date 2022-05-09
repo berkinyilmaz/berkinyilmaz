@@ -5,8 +5,8 @@
 
 
 Skills: Flutter / Dart / C++ / C 
-
 Languages: Turkish(Native) / English(C1) / German(A1)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkinyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="berkinyilmaz" /> </p>
 <p align="left"> <a href="https://twitter.com/berkin_yilmaz" target="blank"><img src="https://img.shields.io/twitter/follow/berkin_yilmaz?logo=twitter&style=for-the-badge" alt="berkin_yilmaz" /></a> </p>
 
@@ -18,7 +18,7 @@ Languages: Turkish(Native) / English(C1) / German(A1)
 
 ## 💼 My Experiences
 - Team Lead [@Flutter Students Club](https://linktr.ee/flutterstudentsclub) (2022-Now)
-- Team Lead [@GDSC Çankaya University](https://gdsc.community.dev/cankaya-university/)
+- Team Lead [@GDSC Çankaya University](https://gdsc.community.dev/cankaya-university/) (2021-Now)
 
 ## 📺 My YouTube Videos 
 - [Introduction to Material Design](https://www.youtube.com/watch?v=H2OykY1FPb8&t=10296s) at Flutter Festival Turquoise 💙
