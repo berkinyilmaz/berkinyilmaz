@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Berkin👋🏻</h1>
-<h2> I am a person that wants to be a better version of who I was yesterday. I have a motto which is "<b>What we do in life, echoes in eternity</b>". So, Let's go! </h2>
+<h2> I am a person that wants to be a better version of who I was yesterday. I have a motto which is <b>"What we do in life, echoes in eternity"</b>. So, Let's go! </h2>
 
 [![image](https://www.linkpicture.com/q/Game-over_1.png)](https://www.linkpicture.com/view.php?img=LPic6278a81b2d5421756653781)
 
