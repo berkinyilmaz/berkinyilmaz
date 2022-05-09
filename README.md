@@ -30,7 +30,7 @@ Languages: Turkish(Native) / English(C1) / German(A1)
 - [My Story as a Google DSC Lead](https://medium.com/developer-student-clubs/my-story-as-a-google-dsc-lead-486934d3a2d) // Google Developer Student Clubs
 
 <p align="left">
-<a href="https://twitter.com/berkinyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berkinyilmaz" height="30" width="40" /></a>
+<a href="https://twitter.com/berkin_yilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berkinyilmaz" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/berkinyilmaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkinyilmaz" height="30" width="40" /></a>
 <a href="https://berkinyilmaz.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berkinyilmaz" height="30" width="40" /></a>
 </p>
