@@ -13,7 +13,7 @@ Languages: Turkish(Native) / English(C1) / German(A1)
 - 🔭 I’m currently working on <b>Flutter</b> 
 - 🌱 I’m currently learning <b>UI/UX</b>  and <b>Kotlin</b>  
 - 👯 I’m looking to collaborate on Cross-Platform Projects 
-- 📫 How to reach me: Best way is berkinyilmaz.cu@gmail.com but [Links](https://linktr.ee/berkinylmz) 
+- 📫 How to reach me: How to reach me @berkin_yilmaz from Twitter and linktr.ee/berkinylmz
 - ⚡I love Drawing, Gaming and playing Guitar
 
 ## 💼 My Experiences
