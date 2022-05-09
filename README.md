@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Berkin👋🏻</h1>
-<h2> I am a person that wants to be a better version of who I was yesterday.I have a motto which is "<b>What we do in life, echoes in eternity</b>". So, Let's go! </h2>
+<h2> I am a person that wants to be a better version of who I was yesterday. I have a motto which is "<b>What we do in life, echoes in eternity</b>". So, Let's go! </h2>
 
 [![image](https://www.linkpicture.com/q/Game-over_1.png)](https://www.linkpicture.com/view.php?img=LPic6278a81b2d5421756653781)
 
@@ -7,6 +7,7 @@
 Skills: Flutter / Dart / C++ / C 
 
 Languages: Turkish(Native) / English(C1) / German(A1)
+<p align="left"> <a href="https://twitter.com/berkin_yilmaz" target="blank"><img src="https://img.shields.io/twitter/follow/berkin_yilmaz?logo=twitter&style=for-the-badge" alt="berkin_yilmaz" /></a> </p>
 
 - 🔭 I’m currently working on <b>Flutter</b> 
 - 🌱 I’m currently learning <b>UI/UX</b>  and <b>Kotlin</b>  
