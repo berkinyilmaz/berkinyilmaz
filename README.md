@@ -3,9 +3,6 @@
 
 ![Game over](https://user-images.githubusercontent.com/62833425/233772721-db8a56e1-a782-4af8-a8ad-9aa7ad6d35fb.png)
 
-
-Skills: Flutter / Dart / HTML / CSS/ JS / C++ / C 
-
 Languages: Turkish(Native) / English(C1) / German(A1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkinyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="berkinyilmaz" /> </p>
@@ -22,7 +19,6 @@ Languages: Turkish(Native) / English(C1) / German(A1)
 - Team Lead [@GDSC Çankaya University](https://gdsc.community.dev/cankaya-university/) (2021-2022)
 - Team Lead [@Flutter Students Club](https://linktr.ee/flutterstudentsclub) (2022)
 
-
 ## 📺 My YouTube Videos 
 - [Introduction to Material Design](https://www.youtube.com/watch?v=H2OykY1FPb8&t=10296s) at Flutter Festival Turquoise 💙
 
@@ -35,15 +31,44 @@ Languages: Turkish(Native) / English(C1) / German(A1)
 - [Flutter Project Pre-Setup](https://berkinyilmaz.medium.com/flutter-project-pre-setup-c2bd06ba959f) 
 
 ## 🎙️ My Podcast
-- [Dizayn ve Tasarım](https://open.spotify.com/episode/598EKZBEfcrSAa8Yqo2Pf6?si=5f8240c107c3428d) // Flutter Türkiye (Spotify) 
+- [Dizayn ve Tasarım](https://open.spotify.com/episode/598EKZBEfcrSAa8Yqo2Pf6?si=5f8240c107c3428d) // Flutter Türkiye (Spotify)
 
-<p align="left">
-<a href="https://twitter.com/berkin_yilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berkinyilmaz" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/berkinyilmaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkinyilmaz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCXrgm9G-khob9pWhh6A-BUA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="berkinyilmaz" height="30" width="40" /></a>
-<a href="https://berkinyilmaz.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berkinyilmaz" height="30" width="40" /></a>
-</p>
+## 🛠 Tech Stack
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+</div>
+
+
+## 🌐 Social Media
+<div id="badges">
+  <a href="https://www.linkedin.com/in/berkinyilmaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/berkinylmz/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://www.twitter.com/berkin_yilmaz">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+     <a href="https://www.youtube.com/channel/UCXrgm9G-khob9pWhh6A-BUA">
+    <img src="https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+     <a href="https://berkinyilmaz.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+  </a>
+
+</div>
+
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkinyilmaz)](https://github.com/anuraghazra/github-readme-stats)
 
 
