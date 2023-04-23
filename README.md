@@ -1,23 +1,33 @@
-<h1 align="center">Hi I'm Berkin👋🏻</h1>
-<h2 align="center"> I am a person that wants to be a better version of who I was yesterday. I have a motto which is <b>"What we do in life, echoes in eternity"</b>. So, Let's go! </h2>
+<h1 align="center">Hi I'm Berkin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
+<h2 align="center"> I am a person that wants to be a better version of who I was yesterday. I have a motto which is <b>"What we do in life, echoes in eternity"</b>. So, Let's go! </h2> 
 
 ![Game over](https://user-images.githubusercontent.com/62833425/233772721-db8a56e1-a782-4af8-a8ad-9aa7ad6d35fb.png)
+##
+
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/berkinyilmaz/) 
+[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkinyilmaz.cu@gmail.com)
 
 Languages: Turkish(Native) / English(C1) / German(A1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkinyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="berkinyilmaz" /> </p>
 <p align="left"> <a href="https://twitter.com/berkin_yilmaz" target="blank"><img src="https://img.shields.io/twitter/follow/berkin_yilmaz?logo=twitter&style=for-the-badge" alt="berkin_yilmaz" /></a> </p>
 
-- 🔭 I’m currently working on <b>Flutter</b> 
-- 🌱 I’m currently learning <b>Frontend Development</b> 
-- 👯 I’m looking to collaborate on Cross-Platform Projects 
-- 📫 How to reach me: @berkin_yilmaz from Twitter and linktr.ee/berkinylmz
-- ⚡ I love Drawing, Gaming and playing Guitar
 
-## 💼 My Experiences
-- Facilitator [@Google Developer Student Clubs Turkey](https://www.linkedin.com/company/developer-student-clubs-turkey/) (2022-Now)
-- Team Lead [@GDSC Çankaya University](https://gdsc.community.dev/cankaya-university/) (2021-2022)
-- Team Lead [@Flutter Students Club](https://linktr.ee/flutterstudentsclub) (2022)
+<div>
+## 🤔 Hello World!! 
+- 💬 Feel free to contact with me.
+- 🐥 Check my Twitter Account [![Twitter](https://img.shields.io/badge/FOLLOW%20ME-TWITTER-informational?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/berkin_yilmaz)
+- 📽 Watch my videos: [![YouTube](https://img.shields.io/badge/FOLLOW%20ME-YOUTUBE-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXrgm9G-khob9pWhh6A-BUA) 
+- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@berkinyilmaz)
+- 🎯 Check out my Instagram page: [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/berkin.dev/)
+</div>
+
+
+## 👯 Communities
+- Google DSC Turkey-Azerbaijan Region Mentor (2022-Now)
+- Leader Development Program (LIGEP) - Trainee (2022)
+- Flutter Students Club - Team Lead (2022)
+- Çankaya Google Developer Student Club (DSC) - Lead (2021-2022)
 
 ## 📺 My YouTube Videos 
 - [Introduction to Material Design](https://www.youtube.com/watch?v=H2OykY1FPb8&t=10296s) at Flutter Festival Turquoise 💙
@@ -48,28 +58,8 @@ Languages: Turkish(Native) / English(C1) / German(A1)
 </div>
 
 
-## 🌐 Social Media
-<div id="badges">
-  <a href="https://www.linkedin.com/in/berkinyilmaz/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/berkinylmz/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://www.twitter.com/berkin_yilmaz">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-     <a href="https://www.youtube.com/channel/UCXrgm9G-khob9pWhh6A-BUA">
-    <img src="https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-     <a href="https://berkinyilmaz.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
-  </a>
-
-</div>
-
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkinyilmaz)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
   
