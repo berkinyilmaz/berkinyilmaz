@@ -53,10 +53,3 @@ Languages: Turkish(Native) / English(C1) / German(A1)
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
 </div>
-
-
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkinyilmaz)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  
