@@ -15,7 +15,7 @@
 - 🐥 Check my Twitter Account [![Twitter](https://img.shields.io/badge/FOLLOW%20ME-TWITTER-informational?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/berkin_yilmaz)
 - 📽 Watch my videos: [![YouTube](https://img.shields.io/badge/FOLLOW%20ME-YOUTUBE-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXrgm9G-khob9pWhh6A-BUA) 
 - 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@berkinyilmaz)
-- 🎯 Check out my Instagram page: [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/berkin.dev/)
+- 🎯 Check out my Instagram page: [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/berkindev/)
 
 
 
