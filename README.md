@@ -6,7 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/berkinyilmaz/)
 [![Instagram](https://img.shields.io/badge/MY%20PROFILE-Instagram-orange?style=for-the-badge&logo=Instagram)](https://www.instagram.com/berkindev/) 
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkinyilmaz.cu@gmail.com)
+[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkinyilmaz.dev@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkinyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="berkinyilmaz" /> </p>
 
