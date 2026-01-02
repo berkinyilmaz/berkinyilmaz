@@ -1,52 +1,76 @@
-<h1 align="center">Hi I'm Berkin. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
-<h2 align="center"> I am a person that wants to be a better version of who I was yesterday. I have a motto which is <b>"What we do in life, echoes in eternity"</b>. So, Let's go! </h2> 
+<h1 align="center">
+  Hi, I'm Berkin 👋
+</h1>
+
+<p align="center">
+  Frontend Developer • Tech Creator
+</p>
 
 ![Game over](https://user-images.githubusercontent.com/62833425/233772721-db8a56e1-a782-4af8-a8ad-9aa7ad6d35fb.png)
-##
 
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/berkinyilmaz/)
-[![Instagram](https://img.shields.io/badge/MY%20PROFILE-Instagram-orange?style=for-the-badge&logo=Instagram)](https://www.instagram.com/berkindev/) 
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkinyilmaz.dev@gmail.com)
+<p align="center">
+  <a href="https://berkindev.tech/">
+    <img alt="Website" src="https://img.shields.io/badge/My%20Website-berkindev.tech-FF6A00?style=for-the-badge" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkinyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="berkinyilmaz" /> </p>
+<p align="center">
+  <a href="https://www.instagram.com/berkindev/"><img alt="Instagram" src="https://img.shields.io/badge/berkindev-Instagram-C13584?style=for-the-badge" /></a>
+  <a href="https://medium.com/@berkinyilmaz"><img alt="Medium" src="https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/berkinyilmaz/"><img alt="LinkedIn" src="https://img.shields.io/badge/MY%20PROFILE-LinkedIn-0A66C2?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=berkinyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="berkinyilmaz" />
+</p>
+
+---
+
+### 🚀 About
+- Building clean, modern, and fast UIs.
+- Sharing my developer life & workflow on Instagram.
+- Motto: **"What we do in life, echoes in eternity."**
+
+---
+
+### ✍️ Writing & Speaking
+- 🎥 **Introduction to Material Design** (Flutter Festival Turquoise)  
+  https://www.youtube.com/watch?v=H2OykY1FPb8&t=10296s
+
+- 🧾 Articles  
+  - Introduction to Material Design → https://medium.com/flutter-students-club/material-designa-giri%C5%9F-1489eea56a1c  
+  - Material Design 3.0 → https://medium.com/flutter-students-club/material-design-3-0-712de778c8ff  
+  - My Story as a Google DSC Lead → https://medium.com/developer-student-clubs/my-story-as-a-google-dsc-lead-486934d3a2d  
+  - Mystery of Color → https://bootcamp.uxdesign.cc/mystery-of-color-df63b38a816b
+  - Mystery of Typography → https://bootcamp.uxdesign.cc/mystery-of-typograpghy-88c455e37cc1  
+  - Flutter Project Pre-Setup → https://berkinyilmaz.medium.com/flutter-project-pre-setup-c2bd06ba959f  
+
+---
+
+### 🤝 Community
+- Google DSC Turkey-Azerbaijan Region Mentor (2022–2023)
+- Flutter Students Club — Team Lead (2022)
+- Çankaya GDSC — Lead (2021–2022)
+
+---
+
+<h3 align="left">🛠 Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,firebase,tailwind,flutter,dart,swift,git,figma,c,cpp" />
+  </a>
+</p>
+
+---
 
 
-## 🤔 Hello World!! 
-- 💬 Feel free to contact with me.
-- 🐥 Check my Twitter Account [![Twitter](https://img.shields.io/badge/FOLLOW%20ME-TWITTER-informational?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/berkin_yilmaz)
-- 📽 Check out my Instagram, sharing my tech life there : [![Instagram](https://img.shields.io/badge/MY%20PROFILE-Instagram-orange?style=flat-square&logo=medium&logoColor=white)](https://www.instagram.com/berkindev/) 
-- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-purple?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@berkinyilmaz)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/berkinyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="berkinyilmaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/berkinyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkinyilmaz" height="30" width="40" /></a>
+<a href="https://instagram.com/berkindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkindev" height="30" width="40" /></a>
+<a href="https://twitter.com/berkin_yilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berkin_yilmaz" height="30" width="40" /></a>
+<a href="https://medium.com/berkinyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="berkinyilmaz" height="30" width="40" /></a>
+</p>
 
-
-## 👯 Communities
-- Google DSC Turkey-Azerbaijan Region Mentor (2022-2023)
-- Leader Development Program (LIGEP) - Trainee (2022)
-- Flutter Students Club - Team Lead (2022)
-- Çankaya Google Developer Student Club (DSC) - Lead (2021-2022)
-
-## 📺 My Presentations 
-- [Introduction to Material Design](https://www.youtube.com/watch?v=H2OykY1FPb8&t=10296s) at Flutter Festival Turquoise 💙
-
-## 🧾 My Articles  
-- [Introduction to Material Design](https://medium.com/flutter-students-club/material-designa-giri%C5%9F-1489eea56a1c) // Flutter Students Club
-- [Material Design 3.0](https://medium.com/flutter-students-club/material-design-3-0-712de778c8ff) // Flutter Students Club
-- [My Story as a Google DSC Lead](https://medium.com/developer-student-clubs/my-story-as-a-google-dsc-lead-486934d3a2d) // Google Developer Student Clubs
-- [Mystery of Color](https://bootcamp.uxdesign.cc/mystery-of-color-df63b38a816b) // Bootcamp
-- [Mystery of Typography](https://bootcamp.uxdesign.cc/mystery-of-typograpghy-88c455e37cc1) // Bootcamp
-- [Flutter Project Pre-Setup](https://berkinyilmaz.medium.com/flutter-project-pre-setup-c2bd06ba959f) 
-
-## 🎙️ My Podcasts
-- [Dizayn ve Tasarım](https://open.spotify.com/episode/598EKZBEfcrSAa8Yqo2Pf6?si=5f8240c107c3428d) // Flutter Türkiye (Spotify)
-
-## 🛠 Skills
-Languages: Turkish(Native) / English(C1) / German(A1)
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-</div>
+If you want to collaborate, build something together, or just say hi: **berkinyilmaz.dev@gmail.com**
