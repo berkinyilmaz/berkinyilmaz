@@ -3,10 +3,8 @@
 </h1>
 
 <p align="center">
-  Frontend Developer • Tech Creator
+  Software developer & content creator. I build with AI and post about it.
 </p>
-
-![Game over](https://user-images.githubusercontent.com/62833425/233772721-db8a56e1-a782-4af8-a8ad-9aa7ad6d35fb.png)
 
 <p align="center">
   <a href="https://berkindev.tech/">
@@ -20,16 +18,11 @@
   <a href="https://www.linkedin.com/in/berkinyilmaz/"><img alt="LinkedIn" src="https://img.shields.io/badge/MY%20PROFILE-LinkedIn-0A66C2?style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=berkinyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="berkinyilmaz" />
-</p>
-
 ---
 
 ### 🚀 About
-- Building clean, modern, and fast UIs.
-- Sharing my developer life & workflow on Instagram.
-- Motto: **"What we do in life, echoes in eternity."**
+- I build with AI and show how on Instagram (@berkindev).
+- Programs: OpenAI Codex Ambassador, ElevenLabs Ambassador, Google AI Community, Recraft Creator Partner.
 
 ---
 
@@ -47,7 +40,7 @@
 
 ---
 
-### 🤝 Community
+### 🤝 Community (past)
 - Google DSC Turkey-Azerbaijan Region Mentor (2022–2023)
 - Flutter Students Club — Team Lead (2022)
 - Çankaya GDSC — Lead (2021–2022)
